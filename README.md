@@ -165,8 +165,8 @@ MIT License - Do whatever you want with this code. Seriously. No restrictions.
 
 ## 🎬 The Real Talk
 
-This isn't just another todo app. This is what happens when a developer who understands efficiency builds something simple. No frameworks overkill, no unnecessary complexity, just **Flask doing what Flask does best** - getting out of your way while you build something real.
+No frameworks overkill, no unnecessary complexity, just **Flask doing what Flask does best** - getting out of your way while you build something real.
 
-### Created by **@mccoymikeyistaken-byte** 🔥
+### Created by **@mccoymikeyistaken-byte** 
 
 **Made with actual caffeine and zero BS** ☕💻
